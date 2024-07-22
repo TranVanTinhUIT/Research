@@ -1,0 +1,2 @@
+1. Recomendation Systems.
+2. Image Feature Engineering. May be consider to apply for NLP.
