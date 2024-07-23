@@ -3,6 +3,7 @@
 3. Tạo sinh ảnh từ mô tả: chiều cao, dáng người (kỹ thuật tư thế body như zoomnet), kiểu tóc, khuôn mặt,...
     Mô hình encoder-decoder với các đặc điểm dáng người, kiểu tóc, mắt, mũi miệng, ... trích xuất đặc điểm ảnh và tạo sinh ảnh từ các đặc điểm đó.
 4. Image supper resolution dựa vào các đặc điểm chi tiết bằng cách kết hợp các phương pháp trích xuất chi tiết
+5. Phân tích các yếu tố ảnh hưởng đến quá trình phát triển và năng suất của cây trồng sử dụng học sâu và phân tích đặc trưng ảnh.
 
 
 ***Image Supper Resolution***
