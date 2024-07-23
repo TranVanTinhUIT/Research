@@ -12,3 +12,10 @@
 
 ***Image Supper Resolution***
 - New Benchmark: paper "Continuous Optical Zooming: A Benchmark for Arbitrary-Scale Image Super-Resolution in Real World"
+- ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting - NeurIPS
+- Real-World Image Super-Resolution as Multi-Task Learning - NeurIPS
+- A High-Resolution Dataset for Instance Detection with Multi-View Object Capture - NeurIPS
+- Learning Re-sampling Methods with Parameter Attribution for Image Super-resolution - NeurIPS
+- QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution - NeurIPS
+- ShuffleMixer: An Efficient ConvNet for Image Super-Resolution - NeurIPS
+- Open High-Resolution Satellite Imagery: The WorldStrat Dataset – With Application to Super-Resolution - NeurIPS
