@@ -4,6 +4,9 @@
     Mô hình encoder-decoder với các đặc điểm dáng người, kiểu tóc, mắt, mũi miệng, ... trích xuất đặc điểm ảnh và tạo sinh ảnh từ các đặc điểm đó.
 4. Image supper resolution dựa vào các đặc điểm chi tiết bằng cách kết hợp các phương pháp trích xuất chi tiết
 5. Phân tích các yếu tố ảnh hưởng đến quá trình phát triển và năng suất của cây trồng sử dụng học sâu và phân tích đặc trưng ảnh.
+6. Thuật toán tiến hóa tìm kiếm quy trình tối ưu cho phát triển cây trồng. 
+   6.1 Data mining -> Xây dựng mô hình dự đoán năng suất của cây trồng.
+   6.2 Thuật toán tiến hóa tìm kiếm quy trình tối ưu cho phát triển cây trồng => đánh giá bằng mô hình data mining đã xây dựng.
 
 
 ***Image Supper Resolution***
