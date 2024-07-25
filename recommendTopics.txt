@@ -19,3 +19,4 @@
 - QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution - NeurIPS
 - ShuffleMixer: An Efficient ConvNet for Image Super-Resolution - NeurIPS
 - Open High-Resolution Satellite Imagery: The WorldStrat Dataset – With Application to Super-Resolution - NeurIPS
+- Denoising diffusion restoration models - NeurIPS
