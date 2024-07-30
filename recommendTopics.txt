@@ -21,3 +21,4 @@
 - Open High-Resolution Satellite Imagery: The WorldStrat Dataset – With Application to Super-Resolution - NeurIPS
 - Denoising diffusion restoration models - NeurIPS
 - High-Resolution Image Synthesis with Latent Diffusion Models - CVPR
+- Ứng dụng mô hình CLIP để tạo ảnh trong các điều kiện thời tiết bất thường -> tăng độ đa dạng và học cách tăng độ rõ nét.
