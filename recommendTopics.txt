@@ -22,3 +22,4 @@
 - Denoising diffusion restoration models - NeurIPS
 - High-Resolution Image Synthesis with Latent Diffusion Models - CVPR
 - Ứng dụng mô hình CLIP để tạo ảnh trong các điều kiện thời tiết bất thường -> tăng độ đa dạng và học cách tăng độ rõ nét.
+- Convolutional Sparse Coding for Image Super-resolution - CVPR
