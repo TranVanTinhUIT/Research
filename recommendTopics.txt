@@ -24,3 +24,8 @@
 - Ứng dụng mô hình CLIP để tạo ảnh trong các điều kiện thời tiết bất thường -> tăng độ đa dạng và học cách tăng độ rõ nét.
 - Convolutional Sparse Coding for Image Super-resolution - CVPR
 - A ConvNet for the 2020s - CVPR
+
+*** Image captioning ***
+ # Ứng dụng cho quản lý thời trang
+ - Gán nhãn, hashtag tự động cho sản phẩm giúp dễ dàng quản lý và tối ưu hóa tìm kiếm và trải nghiệm.
+ - Phân loại hình ảnh quần áo về Màu sắc, kiểu dáng, chất liệu, kích thướt, ... ( có thể theo hashtag) để dễ dàng tìm kiếm, nâng cao trải nghiệm,...
