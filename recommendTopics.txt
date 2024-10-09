@@ -39,3 +39,7 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 - Các kỹ thuật cắt tỉa để tối ưu tài nguyên
 - Image Generation ứng dụng cho việc truyền tải hình ảnh trong điều kiện mạng yếu
 
+*** NLP Application ***
+* Phân tích xu hướng công nghệ thông tin
+ - Datasets thu thập từ các trang tuyển dụng, các blog tổng hợp,...
+ - Phân tích trả lời các câu hỏi Từ tin tuyển dụng
