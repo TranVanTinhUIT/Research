@@ -42,3 +42,6 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 *** Ứng Dụng của Image Captioning trong giáo dục ***
 - Hổ trợ tạo mô tả hình ảnh giúp cho người khiếm thị
 - Hệ thống đánh giá khả năng tư duy của học sinh bằng các bài tập viết mô tả về hình ảnh của học sinh
+
+*** Enhance RAG ***
+TF-IDF: Sử dụng TF-IDF (Term Frequency-Inverse Document Frequency) để xác định từ khóa chính trong mỗi câu, sau đó tính toán cosine similarity giữa các vector TF-IDF của hai câu để đánh giá mức độ tương đồng ngữ nghĩa của key context.
