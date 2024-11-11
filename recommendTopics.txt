@@ -44,4 +44,9 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 - Hệ thống đánh giá khả năng tư duy của học sinh bằng các bài tập viết mô tả về hình ảnh của học sinh
 
 *** Enhance RAG ***
-TF-IDF: Sử dụng TF-IDF (Term Frequency-Inverse Document Frequency) để xác định từ khóa chính trong mỗi câu, sau đó tính toán cosine similarity giữa các vector TF-IDF của hai câu để đánh giá mức độ tương đồng ngữ nghĩa của key context.
+- TF-IDF: Sử dụng TF-IDF (Term Frequency-Inverse Document Frequency) để xác định từ khóa chính trong mỗi câu, sau đó tính toán cosine similarity giữa các vector TF-IDF của hai câu để đánh giá mức độ tương đồng ngữ nghĩa của key context.
+- Challenges when integrate RAG for Image captioning
+ + Noise: các thông tin trong truy suất chứa nhiễu hoặc thông tin không liên quan gây nhầm lẫn hoặc không phù hợp với hình ảnh
+ + Chi phí tính toán: cần thêm chi phí cho việc truy suất
+ + Chanllenge chung cho image captioning: Khó khăn trong việc caption image phức tạp nhiều chi tiết, chi tiết nhỏ, ..
+ + Sử dụng pretrained visual model -> Khó khăn trong các nội dung trừu tượng, noise trong dataset của pretrained visual model
