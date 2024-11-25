@@ -50,3 +50,13 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  + Chi phí tính toán: cần thêm chi phí cho việc truy suất
  + Chanllenge chung cho image captioning: Khó khăn trong việc caption image phức tạp nhiều chi tiết, chi tiết nhỏ, ..
  + Sử dụng pretrained visual model -> Khó khăn trong các nội dung trừu tượng, noise trong dataset của pretrained visual model
+
+*** Ứng Dụng NPL trong giáo dục ****
+- Tự động tạo video mô phòng nội dung bài giảng. 
+  + Input: nội dung mô tả cơ bản về bài giảng
+   -> LLMs -> nội dung mô tả đầy đủ hơn về thông tin ngữ cảnh, nội dung bài giảng + các yêu cầu cụ thể từ người dùng ( Highlight phần nào, làm rõ phần nào)
+   -> Key concepts, phân tích các thành phần chính + ưu tiên thêm các nội dung người dùng chỉ định
+   --> Tạo sinh hình ảnh chính (key frames) cho nội dung của video. + có thê tích hợp change style của image dựa trên mô tả người dùng.
+   ---> dựa trên các key frames, tạo video nội dung dựa trên các keyframes đó
+   ---> tạo âm thanh cho video. 
+ - xem xét kết hợp captioning image để tạo scripts cho video + translate to ngôn ngữ mục tiêu.
