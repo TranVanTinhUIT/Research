@@ -60,3 +60,6 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
    ---> dựa trên các key frames, tạo video nội dung dựa trên các keyframes đó
    ---> tạo âm thanh cho video. 
  - xem xét kết hợp captioning image để tạo scripts cho video + translate to ngôn ngữ mục tiêu.
+ # References
+ - https://aclanthology.org/2024.emnlp-main.37/ (Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems)
+ - https://aclanthology.org/2024.emnlp-main.178/ (SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation)
