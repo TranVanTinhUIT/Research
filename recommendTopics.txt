@@ -42,3 +42,24 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 *** Ứng Dụng của Image Captioning trong giáo dục ***
 - Hổ trợ tạo mô tả hình ảnh giúp cho người khiếm thị
 - Hệ thống đánh giá khả năng tư duy của học sinh bằng các bài tập viết mô tả về hình ảnh của học sinh
+
+*** Enhance RAG ***
+- TF-IDF: Sử dụng TF-IDF (Term Frequency-Inverse Document Frequency) để xác định từ khóa chính trong mỗi câu, sau đó tính toán cosine similarity giữa các vector TF-IDF của hai câu để đánh giá mức độ tương đồng ngữ nghĩa của key context.
+- Challenges when integrate RAG for Image captioning
+ + Noise: các thông tin trong truy suất chứa nhiễu hoặc thông tin không liên quan gây nhầm lẫn hoặc không phù hợp với hình ảnh
+ + Chi phí tính toán: cần thêm chi phí cho việc truy suất
+ + Chanllenge chung cho image captioning: Khó khăn trong việc caption image phức tạp nhiều chi tiết, chi tiết nhỏ, ..
+ + Sử dụng pretrained visual model -> Khó khăn trong các nội dung trừu tượng, noise trong dataset của pretrained visual model
+
+*** Ứng Dụng NPL trong giáo dục ****
+- Tự động tạo video mô phòng nội dung bài giảng. 
+  + Input: nội dung mô tả cơ bản về bài giảng
+   -> LLMs -> nội dung mô tả đầy đủ hơn về thông tin ngữ cảnh, nội dung bài giảng + các yêu cầu cụ thể từ người dùng ( Highlight phần nào, làm rõ phần nào)
+   -> Key concepts, phân tích các thành phần chính + ưu tiên thêm các nội dung người dùng chỉ định
+   --> Tạo sinh hình ảnh chính (key frames) cho nội dung của video. + có thê tích hợp change style của image dựa trên mô tả người dùng.
+   ---> dựa trên các key frames, tạo video nội dung dựa trên các keyframes đó
+   ---> tạo âm thanh cho video. 
+ - xem xét kết hợp captioning image để tạo scripts cho video + translate to ngôn ngữ mục tiêu.
+ # References
+ - https://aclanthology.org/2024.emnlp-main.37/ (Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems)
+ - https://aclanthology.org/2024.emnlp-main.178/ (SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation)
