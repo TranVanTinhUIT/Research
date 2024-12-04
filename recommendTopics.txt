@@ -64,6 +64,7 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  - https://aclanthology.org/2024.emnlp-main.37/ (Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems)
  - https://aclanthology.org/2024.emnlp-main.178/ (SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation)
  # Lập kế hoạch giảng dạy dựa trên kết quả bài tập của học sinh, phân tích các điểm sai, điểm cần cải thiện, thống kê và lên kế hoạch giảng dạy bổ sung để cập nhật kiến thức bị hỏng cho học sinh. 
- - Phân tích về bài làm. Rút ra lỗi sai, lỗi thường thấy, thống kê và đánh giá.
- - Từ đó lên kế hoạch cho nội dung giảng dạy thêm
+ - Phân tích về bài làm. Rút ra lỗi sai, lỗi thường thấy. 
+ - Phân loại các lỗi sai. Thống kê và đánh giá mức độ, tỉ lệ mắc lỗi.
+ - Từ đó lên kế hoạch + tạo giáo án giảng dạy thêm
 
