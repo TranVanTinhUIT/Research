@@ -52,7 +52,7 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  + Sử dụng pretrained visual model -> Khó khăn trong các nội dung trừu tượng, noise trong dataset của pretrained visual model
 
 *** Ứng Dụng NPL trong giáo dục ****
-- Tự động tạo video mô phòng nội dung bài giảng. 
+# Tự động tạo video mô phòng nội dung bài giảng. 
   + Input: nội dung mô tả cơ bản về bài giảng
    -> LLMs -> nội dung mô tả đầy đủ hơn về thông tin ngữ cảnh, nội dung bài giảng + các yêu cầu cụ thể từ người dùng ( Highlight phần nào, làm rõ phần nào)
    -> Key concepts, phân tích các thành phần chính + ưu tiên thêm các nội dung người dùng chỉ định
@@ -63,3 +63,7 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  # References
  - https://aclanthology.org/2024.emnlp-main.37/ (Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems)
  - https://aclanthology.org/2024.emnlp-main.178/ (SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation)
+ # Lập kế hoạch giảng dạy dựa trên kết quả bài tập của học sinh, phân tích các điểm sai, điểm cần cải thiện, thống kê và lên kế hoạch giảng dạy bổ sung để cập nhật kiến thức bị hỏng cho học sinh. 
+ - Phân tích về bài làm. Rút ra lỗi sai, lỗi thường thấy, thống kê và đánh giá.
+ - Từ đó lên kế hoạch cho nội dung giảng dạy thêm
+
