@@ -70,3 +70,8 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  # Hệ thống đánh giá khả năng tái chế và đề xuất phương án tái chế cho vật dụng cũ.
  - Input: hình ảnh vật dụng cũ + các mô tả (nếu có)
  - Output: khả năng tái chế + phương pháp đề xuất.
+ - proposal pileline:
+   + Hình ảnh + mô tả, gợi ý => detect đối tượng + khả năng tái chế (0-1)
+   + Output của step trước => đề xuất phương án (có thể có nhiều phương án hoặc không có)
+   + Chia nhóm các output (vật dụng + phương án xử lý) -> có thể kết thúc hoặc tiếp tục
+   + Tiếp tục chia nhóm xử lý theo các tiêu chí khác nhau (có thể cần 1 hệ thống khác hoặc các tiêu chí chia nhóm được xác định trước)
