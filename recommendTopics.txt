@@ -67,4 +67,6 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  - Phân tích về bài làm. Rút ra lỗi sai, lỗi thường thấy. 
  - Phân loại các lỗi sai. Thống kê và đánh giá mức độ, tỉ lệ mắc lỗi.
  - Từ đó lên kế hoạch + tạo giáo án giảng dạy thêm
-
+ # Hệ thống đánh giá khả năng tái chế và đề xuất phương án tái chế cho vật dụng cũ.
+ - Input: hình ảnh vật dụng cũ + các mô tả (nếu có)
+ - Output: khả năng tái chế + phương pháp đề xuất.
