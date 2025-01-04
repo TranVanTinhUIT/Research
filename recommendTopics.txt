@@ -39,6 +39,9 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 - Các kỹ thuật cắt tỉa để tối ưu tài nguyên
 - Image Generation ứng dụng cho việc truyền tải hình ảnh trong điều kiện mạng yếu
 
+ # Proposal method
+ - Có thể tích hợp thêm 1 vài layer deformable layer (deformable CNN, deformable Transformer) để trích xuất thêm image feature của các pre train Vision-Language model (CLIP, BLIP)
+
 *** Ứng Dụng của Image Captioning trong giáo dục ***
 - Hổ trợ tạo mô tả hình ảnh giúp cho người khiếm thị
 - Hệ thống đánh giá khả năng tư duy của học sinh bằng các bài tập viết mô tả về hình ảnh của học sinh
