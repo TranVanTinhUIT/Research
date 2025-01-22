@@ -79,4 +79,6 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
    + Chia nhóm các output (vật dụng + phương án xử lý) -> có thể kết thúc hoặc tiếp tục
    + Tiếp tục chia nhóm xử lý theo các tiêu chí khác nhau (có thể cần 1 hệ thống khác hoặc các tiêu chí chia nhóm được xác định trước)
 
-# Ứng dụng Image captioning trong mô tả hành vi vi phạm giao thông trong hình ảnh. Để phân loại phù hợp.
+# Ứng dụng Image captioning 
+ - mô tả hành vi vi phạm giao thông trong hình ảnh. Để phân loại phù hợp.
+ - Đưa ra lời cảnh báo chi tiết về hành vi phá hoại an ninh tại nơi công cộng.
