@@ -82,3 +82,8 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 # Ứng dụng Image captioning 
  - mô tả hành vi vi phạm giao thông trong hình ảnh. Để phân loại phù hợp.
  - Đưa ra lời cảnh báo chi tiết về hành vi phá hoại an ninh tại nơi công cộng.
+ - Tự động tạo metadata Caption image nhiều phong cách để phục vụ cho các mục đích khác nhau, phong cách tạo ra dựa trên các external datastore khác nhau: 
+    + Ví dụ: Về các đối tượng trong hình ảnh thì xây dựng datastore theo cách các đối tượng tương đồng
+    + Về cảm xúc thì xây dựng datastore theo phong cách các cảm xúc khác nhau
+    ....
+    NOTE: tham khác các paper về controllable image captioning hoặc control queries (queries control để xác định feature của ảnh theo phong cách đó)   
