@@ -91,4 +91,4 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
  - Quá trình xây dựng bộ dữ liệu, bộ datastore, gán nhãn.... (???)
  - Mô tả hình ảnh theo các tiêu chí như: “tình trạng sinh trưởng,” “mức độ sâu bệnh,” “độ ẩm đất,” hoặc “mức độ phát triển của quả.”
  - (Optional) Truy suất đến các hình ảnh đã có (datastore) để dự đoán tình trạng hiện tại của cây dựa trên hình ảnh cung cấp.
- - 
+ - Output: có thể là caption mô tả trình trạng của cây, việc cần làm để cải thiện. Hoặc đầu ra là các mức độ của các tiêu chí và dựa vào các mức độ đó đưa ra lời cảnh báo (hoặc lời khuyên, giải pháp cần thực hiện). 
