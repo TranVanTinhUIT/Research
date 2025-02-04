@@ -87,3 +87,8 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
     + Về cảm xúc thì xây dựng datastore theo phong cách các cảm xúc khác nhau
     ....
     NOTE: tham khác các paper về controllable image captioning hoặc control queries (queries control để xác định feature của ảnh theo phong cách đó)   
+* ứng dụng trong giám sát cây trồng  ---- controllable image captioning 
+ - Quá trình xây dựng bộ dữ liệu, bộ datastore, gán nhãn.... (???)
+ - Mô tả hình ảnh theo các tiêu chí như: “tình trạng sinh trưởng,” “mức độ sâu bệnh,” “độ ẩm đất,” hoặc “mức độ phát triển của quả.”
+ - (Optional) Truy suất đến các hình ảnh đã có (datastore) để dự đoán tình trạng hiện tại của cây dựa trên hình ảnh cung cấp.
+ - 
