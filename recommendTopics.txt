@@ -96,3 +96,4 @@ https://paperswithcode.com/paper/conzic-controllable-zero-shot-image
 
 **Papers**:
 - A Survey of Reinforcement Learning for Large Reasoning Models
+- Towards large reasoning models: A survey of reinforced reasoning with large language models
